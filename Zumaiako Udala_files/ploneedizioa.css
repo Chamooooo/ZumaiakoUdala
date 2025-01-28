@@ -1,0 +1,566 @@
+#komertzioa .documentDescription {
+  margin: 0;
+}
+
+.contact-information {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+.specialities,
+.specialties,
+.accessibility,
+.stamps,
+.services,
+.more-information,
+.prices {
+  border: 1px solid #efefef;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+.contact-information h2,
+.specialties h2,
+.specialities h2,
+.accessibility h2,
+.stamps h2,
+.services h2,
+.more-information h2,
+.prices h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  border-bottom: 1px dotted #ccc;
+  padding-bottom: 1rem;
+  font-size: 20px;
+  color: #333;
+  font-weight: 600;
+}
+.contact-information dl {
+  margin-left: 1.2rem;
+  font-size: 1rem;
+}
+.contact-information dt {
+  float: left;
+  clear: both;
+  margin-right: 1rem;
+  line-height: 1.5rem;
+  font-weight: 600;
+}
+.contact-information dd {
+  line-height: 1.5rem;
+  font-weight: 300;
+}
+.accessibility li,
+.stamps li,
+.services li {
+  display: inline !important;
+  margin-right: 10px;
+}
+.accessibility ul,
+.stamps ul,
+.services ul {
+  margin-left: 0 !important;
+}
+
+/* */
+.iconsurfing,
+.icontourism-quality,
+.iconheater,
+.icontv-room,
+.iconplayground,
+.iconconference-hall,
+.icontourism-quality-commitment,
+.iconfronton,
+.iconfull-house-renting,
+.iconhas-tv,
+.iconswimming-pool,
+.icontalaso,
+.iconcredit-cards,
+.icondogs-allowed,
+.icongastronomical-euskadi,
+.iconrestaurant,
+.icongolf,
+.iconjardin,
+.iconsupermarket,
+.iconac,
+.iconadapted-room,
+.iconkitchen,
+.iconlaunderette,
+.iconinternet,
+.iconno-wc,
+.iconbar,
+.iconblind0,
+.iconblind1,
+.iconblind2,
+.icondeaf0,
+.icondeaf1,
+.icondeaf2,
+.iconintelectual0,
+.iconintelectual1,
+.iconintelectual2,
+.iconmusic,
+.iconorganic0,
+.iconorganic1,
+.iconorganic2,
+.iconparking,
+.iconwheel-chair0,
+.iconwheel-chair1,
+.iconwheel-chair2,
+.iconwifi,
+.iconoutside-area,
+.icongeoparkea,
+.iconkode-etikoa,
+.iconecolabel,
+.iconfamilia-turismoa,
+.icongertu,
+.iconecoturista,
+.iconikp {
+  display: inline-block;
+  background: url("../img/indice.gif") no-repeat;
+  overflow: hidden;
+  text-indent: -9999px;
+  text-align: left;
+}
+.iconsurfing {
+  background-position: -0px -0px;
+  width: 83px;
+  height: 35px;
+}
+.icontourism-quality {
+  background-position: -0px -35px;
+  width: 62px;
+  height: 35px;
+}
+.iconheater {
+  background-position: -0px -70px;
+  width: 51px;
+  height: 35px;
+}
+.icontv-room {
+  background-position: -0px -105px;
+  width: 45px;
+  height: 35px;
+}
+.iconplayground {
+  background-position: -0px -140px;
+  width: 44px;
+  height: 35px;
+}
+.iconconference-hall {
+  background-position: -0px -175px;
+  width: 42px;
+  height: 35px;
+}
+.icontourism-quality-commitment {
+  background-position: -42px -175px;
+  width: 41px;
+  height: 35px;
+}
+.iconfronton {
+  background-position: -0px -210px;
+  width: 40px;
+  height: 35px;
+}
+.iconfull-house-renting {
+  background-position: -40px -210px;
+  width: 40px;
+  height: 35px;
+}
+.iconhas-tv {
+  background-position: -0px -245px;
+  width: 40px;
+  height: 35px;
+}
+.iconswimming-pool {
+  background-position: -40px -245px;
+  width: 40px;
+  height: 35px;
+}
+.icontalaso {
+  background-position: -0px -280px;
+  width: 40px;
+  height: 35px;
+}
+.iconcredit-cards {
+  background-position: -40px -280px;
+  width: 40px;
+  height: 35px;
+}
+.icondogs-allowed {
+  background-position: -45px -105px;
+  width: 38px;
+  height: 35px;
+}
+.icongastronomical-euskadi {
+  background-position: -0px -315px;
+  width: 37px;
+  height: 35px;
+}
+.iconrestaurant {
+  background-position: -37px -315px;
+  width: 36px;
+  height: 35px;
+}
+.icongolf {
+  background-position: -0px -350px;
+  width: 35px;
+  height: 35px;
+}
+.iconjardin {
+  background-position: -35px -350px;
+  width: 35px;
+  height: 35px;
+}
+.iconsupermarket {
+  background-position: -0px -385px;
+  width: 35px;
+  height: 35px;
+}
+.iconac {
+  background-position: -35px -385px;
+  width: 33px;
+  height: 35px;
+}
+.iconadapted-room {
+  background-position: -0px -420px;
+  width: 31px;
+  height: 35px;
+}
+.iconkitchen {
+  background-position: -31px -420px;
+  width: 31px;
+  height: 35px;
+}
+.iconlaunderette {
+  background-position: -0px -455px;
+  width: 31px;
+  height: 35px;
+}
+.iconinternet {
+  background-position: -31px -455px;
+  width: 30px;
+  height: 35px;
+}
+.iconno-wc {
+  background-position: -0px -490px;
+  width: 30px;
+  height: 35px;
+}
+.iconbar {
+  background-position: -30px -490px;
+  width: 29px;
+  height: 35px;
+}
+.iconblind0 {
+  background-position: -51px -70px;
+  width: 29px;
+  height: 28px;
+}
+.iconblind1 {
+  background-position: -44px -140px;
+  width: 29px;
+  height: 28px;
+}
+.iconblind2 {
+  background-position: -0px -525px;
+  width: 29px;
+  height: 28px;
+}
+.icondeaf0 {
+  background-position: -29px -525px;
+  width: 29px;
+  height: 28px;
+}
+.icondeaf1 {
+  background-position: -0px -553px;
+  width: 29px;
+  height: 28px;
+}
+.icondeaf2 {
+  background-position: -29px -553px;
+  width: 29px;
+  height: 28px;
+}
+.iconintelectual0 {
+  background-position: -0px -581px;
+  width: 29px;
+  height: 28px;
+}
+.iconintelectual1 {
+  background-position: -29px -581px;
+  width: 29px;
+  height: 28px;
+}
+.iconintelectual2 {
+  background-position: -0px -609px;
+  width: 29px;
+  height: 28px;
+}
+.iconmusic {
+  background-position: -29px -609px;
+  width: 23px;
+  height: 35px;
+}
+.iconorganic0 {
+  background-position: -0px -637px;
+  width: 29px;
+  height: 28px;
+}
+.iconorganic1 {
+  background-position: -29px -644px;
+  width: 29px;
+  height: 28px;
+}
+.iconorganic2 {
+  background-position: -0px -665px;
+  width: 29px;
+  height: 28px;
+}
+.iconparking {
+  background-position: -29px -672px;
+  width: 24px;
+  height: 35px;
+}
+.iconwheel-chair0 {
+  background-position: -0px -693px;
+  width: 29px;
+  height: 28px;
+}
+.iconwheel-chair1 {
+  background-position: -29px -707px;
+  width: 29px;
+  height: 28px;
+}
+.iconwheel-chair2 {
+  background-position: -0px -721px;
+  width: 29px;
+  height: 28px;
+}
+.iconwifi {
+  background-position: -52px -606px;
+  width: 31px;
+  height: 30px;
+}
+.iconoutside-area {
+  background-position: -53px -683px;
+  width: 30px;
+  height: 23px;
+}
+.icongeoparkea {
+  background-position: 0px -890px;
+  width: 83px;
+  height: 35px;
+}
+.iconkode-etikoa {
+  background-position: 0px -795px;
+  width: 73px;
+  height: 35px;
+}
+.iconecolabel {
+  background-position: 0px -855px;
+  width: 33px;
+  height: 35px;
+}
+.iconfamilia-turismoa {
+  background-position: 0px -750px;
+  width: 63px;
+  height: 40px;
+}
+.icongertu {
+  background-position: 0px -825px;
+  width: 73px;
+  height: 25px;
+}
+.iconecoturista {
+  background-position: 0px -917px;
+  width: 40px;
+  height: 40px;
+}
+.iconikp {
+  background-position: 0px -950px;
+  width: 41px;
+  height: 45px;
+}
+/* */
+.iconapartment,
+.iconbreakfast,
+.iconbungalow,
+.icondoubleroom,
+.iconpitch,
+.iconsingleroom {
+  display: inline-block;
+  background: url("../img/sprite2.gif") no-repeat;
+  overflow: hidden;
+  text-indent: -9999px;
+  text-align: left;
+}
+.iconapartment {
+  background-position: -0px -0px;
+  width: 47px;
+  height: 30px;
+}
+.iconbreakfast {
+  background-position: -47px -0px;
+  width: 47px;
+  height: 30px;
+}
+.iconbungalow {
+  background-position: -0px -30px;
+  width: 47px;
+  height: 30px;
+}
+.icondoubleroom {
+  background-position: -47px -30px;
+  width: 47px;
+  height: 30px;
+}
+.iconpitch {
+  background-position: -0px -60px;
+  width: 47px;
+  height: 30px;
+}
+.iconsingleroom {
+  background-position: -47px -60px;
+  width: 47px;
+  height: 30px;
+}
+/*gida*/
+/********************GIDA**************/
+
+#faceted-left-column {
+  padding-right: 30px;
+}
+.faceted-widget {
+  background-color: #efefef;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+#faceted-left-column fieldset {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.faceted-widget input {
+  margin-right: 10px;
+  margin-top: 5px;
+}
+#faceted-left-column legend {
+  font-size: 1.1rem;
+  border-bottom: 1px solid white;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+}
+.faceted-widget li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+#faceted-results .pagination {
+  justify-content: flex-end;
+  margin-bottom: 1px solid #efefef;
+}
+#faceted-results .pagination ul {
+  font-size: 0.9rem;
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+#faceted-results .pagination li {
+  display: inline;
+  padding: 0.5rem;
+}
+#faceted-results .pagination li.active {
+  background-color: #efefef;
+}
+.eea-preview-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.eeakomertzioa.photoAlbumEntry {
+  background-image: none;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 6px;
+  width: 45%;
+  padding: 1%;
+  margin-bottom: 1.5rem;
+}
+.eeakomertzioa {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.eeakomertzioa h3 {
+  font-size: 1.1rem;
+  margin-top: 0;
+}
+.eeakomertzioa h3 a {
+  color: black !important;
+  font-weight: 300;
+}
+@media (max-width: 990px) {
+  .left-area-js {
+    margin-left: 0 !important;
+  }
+
+  #left-area {
+    float: none !important;
+    width: 100% !important;
+    clear: both !important;
+  }
+  .eeakomertzioa.photoAlbumEntry {
+    width: 48%;
+  }
+}
+/*asebetetze inkesta*/
+#formPrologue {
+  background-color: #efefef;
+  padding: 2rem;
+  margin: 1rem 0;
+}
+
+.easyformForm .field {
+  margin: 1rem;
+  border-bottom: 1px solid #efefef;
+  padding-bottom: 1rem;
+}
+.easyformForm label {
+  float: left;
+}
+.easyformForm select {
+  border-radius: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 3px;
+}
+.easyformForm textarea {
+  width: 100%;
+}
+.easyformForm input#form-buttons-submit {
+  background-color: #a20431;
+  border-color: #a20431;
+  color: #fff;
+  margin-left: 1rem;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  border: none;
+}
+.easyformForm input#form-buttons-submit:hover {
+  background-color: black;
+}
+
+/** menua2 **/
+
+.portlet ul.navTreeLevel0 > .navTreeItem {
+  border-bottom: 0.1em solid #ccc;
+  display: block;
+  line-height: 2em;
+  padding: 0.25em 1em;
+}
+.portlet ul.navTreeLevel1 > .navTreeItem a {
+  color: #999 !important;
+  font-size: 15px;
+}
